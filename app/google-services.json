@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "882687953626",
+    "project_id": "tours-59b89",
+    "storage_bucket": "tours-59b89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882687953626:android:b6922de55c8917def673e3",
+        "android_client_info": {
+          "package_name": "com.young.tours"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwjGZVM_LUbQIBIktLq4pZFXd4xHVU0P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
